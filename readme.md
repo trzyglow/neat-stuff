@@ -533,6 +533,10 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [SyncTERM](https://syncterm.bbsdev.net/)
   - BBS client
 
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
+
+- [MapSCII](https://github.com/rastapasta/mapscii)
+
 ### Mobile Apps (Android)
 
 - [Librera Reader](https://github.com/foobnix/LibreraReader)
