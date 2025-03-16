@@ -69,7 +69,7 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [The Doom Wiki](https://doomwiki.org/wiki/Entryway)
 
-### Special source-ports
+### Special Source-Ports
 
 - [Doom 64 EX+](https://github.com/atsb/Doom64EX-Plus)
   - A sourceport of Doom 64 for PC
@@ -107,7 +107,7 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 </details>
 
-## The old Web
+## The Old Web
 <details>
 <summary>Show Entries</summary>
 
@@ -155,6 +155,8 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
+- [NoScript Security Suite](https://noscript.net/)
+
 ### Miscellaneous
 
 - [OpenStreetMap](https://www.openstreetmap.org/)
@@ -181,9 +183,17 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Dark Visitors](https://darkvisitors.com/)
 
+- [yabridge](https://github.com/robbert-vdh/yabridge)
+
+- [Buy European](https://buy-european.net/)
+
+- [anubis](https://github.com/TecharoHQ/anubis)
+
+- [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt)
+
 </details>
 
-## Modern retro Gaming
+## Modern Retro Gaming
 <details>
 <summary>Show Entries</summary>
 
@@ -300,7 +310,7 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [melonDS](https://github.com/melonDS-emu/melonDS)
 
-### Reimplementations, Ports & more
+### Reimplementations, Ports & More
 
 #### Shooter
 
@@ -441,7 +451,7 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball)
 
-#### Utilities, QOL & enhancement
+#### Utilities, QOL & Enhancement
 
 - [dgVoodoo2](https://github.com/dege-diosg/dgVoodoo2)
 
@@ -514,6 +524,20 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 </details>
 
+## Arch Linux
+<details>
+<summary>Show Entries</summary>
+
+- [Arch Package Search](https://archlinux.org/packages/)
+
+- [AUR Package Search](https://aur.archlinux.org/packages)
+
+- [Chaotic AUR](https://aur.chaotic.cx/)
+
+- [Arch Wiki](https://wiki.archlinux.org/)
+
+</details>
+
 ## Miscellaneous
 <details>
 <summary>Show Entries</summary>
@@ -533,13 +557,29 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [SyncTERM](https://syncterm.bbsdev.net/)
   - BBS client
 
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
+
+- [MapSCII](https://github.com/rastapasta/mapscii)
+
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
+- [gallery-dl](https://github.com/mikf/gallery-dl)
+
+- [rusty-psn](https://github.com/RainbowCookie32/rusty-psn)
+
+- [ntsc-rs](https://github.com/valadaptive/ntsc-rs)
+
+- [Unhook YouTube](https://unhook.app/)
+
+- [YouTube No Translation](https://youtube-no-translation.vercel.app/)
+
 ### Mobile Apps (Android)
 
 - [Librera Reader](https://github.com/foobnix/LibreraReader)
 
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
 
-- [Organic Maps](https://github.com/organicmaps/organicmaps)
+- [Organic Maps](https://git.omaps.dev/organicmaps/organicmaps)
 
 - [Auxio](https://github.com/OxygenCobalt/Auxio)
 
@@ -549,7 +589,7 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
 
-- [Fossify Keyboard](https://github.com/FossifyOrg/Keyboard)
+- [Fossify Suite](https://github.com/FossifyOrg)
 
 - [Shizuku](https://shizuku.rikka.app/)
 
@@ -557,8 +597,21 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [microG](https://microg.org/)
 
+- [Obtainium](https://obtainium.imranr.dev/)
+
+- [ReVanced Manager](https://github.com/ReVanced/revanced-manager)
+
+- [Currencies](https://github.com/sal0max/currencies)
+
+- [Another notes app](https://github.com/maltaisn/another-notes-app/)
+
 </details>
 <hr>
+
+> [!NOTE]
+> The inclusion of an entry is not an endorsement of the author/authors or rights holder/holders.
+
+
 
 > [!CAUTION]
 > I will not be liable for any potential damages resulting from the visit or usage of the above listed entries.
