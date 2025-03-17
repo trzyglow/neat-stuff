@@ -69,7 +69,7 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [The Doom Wiki](https://doomwiki.org/wiki/Entryway)
 
-### Special source-ports
+### Special Source-Ports
 
 - [Doom 64 EX+](https://github.com/atsb/Doom64EX-Plus)
   - A sourceport of Doom 64 for PC
@@ -107,7 +107,7 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 </details>
 
-## The old Web
+## The Old Web
 <details>
 <summary>Show Entries</summary>
 
@@ -181,9 +181,11 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Dark Visitors](https://darkvisitors.com/)
 
+- [yabridge](https://github.com/robbert-vdh/yabridge)
+
 </details>
 
-## Modern retro Gaming
+## Modern Retro Gaming
 <details>
 <summary>Show Entries</summary>
 
@@ -300,7 +302,7 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [melonDS](https://github.com/melonDS-emu/melonDS)
 
-### Reimplementations, Ports & more
+### Reimplementations, Ports & More
 
 #### Shooter
 
@@ -441,7 +443,7 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball)
 
-#### Utilities, QOL & enhancement
+#### Utilities, QOL & Enhancement
 
 - [dgVoodoo2](https://github.com/dege-diosg/dgVoodoo2)
 
@@ -536,6 +538,14 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
 
 - [MapSCII](https://github.com/rastapasta/mapscii)
+
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
+- [gallery-dl](https://github.com/mikf/gallery-dl)
+
+- [rusty-psn](https://github.com/RainbowCookie32/rusty-psn)
+
+- [ntsc-rs](https://github.com/valadaptive/ntsc-rs)
 
 ### Mobile Apps (Android)
 
