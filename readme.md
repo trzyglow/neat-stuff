@@ -563,13 +563,19 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
 
-- [Fossify Keyboard](https://github.com/FossifyOrg/Keyboard)
+- [Fossify Suite](https://github.com/FossifyOrg)
 
 - [Shizuku](https://shizuku.rikka.app/)
 
 - [Canta](https://github.com/samolego/Canta)
 
 - [microG](https://microg.org/)
+
+- [Obtainium](https://obtainium.imranr.dev/)
+
+- [ReVanced Manager](https://github.com/ReVanced/revanced-manager)
+
+- [Currencies](https://github.com/sal0max/currencies)
 
 </details>
 <hr>
