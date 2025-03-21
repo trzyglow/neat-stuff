@@ -581,7 +581,7 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 <hr>
 
 > [!NOTE]
-> The inclusion of an entry is not an endorsement of of the author/authors or rights holder/holders.
+> The inclusion of an entry is not an endorsement of the author/authors or rights holder/holders.
 
 
 
