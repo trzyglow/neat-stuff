@@ -574,6 +574,11 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 </details>
 <hr>
 
+> [!NOTE]
+> The inclusion of an entry is not an endorsement of of the author/authors or rights holder/holders.
+
+
+
 > [!CAUTION]
 > I will not be liable for any potential damages resulting from the visit or usage of the above listed entries.
 > User discretion is advised; use and/or visit at your own risk.
