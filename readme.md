@@ -183,6 +183,8 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [yabridge](https://github.com/robbert-vdh/yabridge)
 
+- [Buy European](https://buy-european.net/)
+
 </details>
 
 ## Modern Retro Gaming
@@ -576,6 +578,8 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [ReVanced Manager](https://github.com/ReVanced/revanced-manager)
 
 - [Currencies](https://github.com/sal0max/currencies)
+
+- [Another notes app](https://github.com/maltaisn/another-notes-app/)
 
 </details>
 <hr>
