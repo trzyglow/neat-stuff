@@ -155,6 +155,8 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
+- [NoScript Security Suite](https://noscript.net/)
+
 ### Miscellaneous
 
 - [OpenStreetMap](https://www.openstreetmap.org/)
@@ -548,6 +550,10 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [rusty-psn](https://github.com/RainbowCookie32/rusty-psn)
 
 - [ntsc-rs](https://github.com/valadaptive/ntsc-rs)
+
+- [Unhook YouTube](https://unhook.app/)
+
+- [YouTube No Translation](https://youtube-no-translation.vercel.app/)
 
 ### Mobile Apps (Android)
 
