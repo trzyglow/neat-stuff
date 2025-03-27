@@ -187,6 +187,10 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Buy European](https://buy-european.net/)
 
+- [anubis](https://github.com/TecharoHQ/anubis)
+
+- [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt)
+
 </details>
 
 ## Modern Retro Gaming
