@@ -561,7 +561,7 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
 
-- [Organic Maps](https://github.com/organicmaps/organicmaps)
+- [Organic Maps](https://git.omaps.dev/organicmaps/organicmaps)
 
 - [Auxio](https://github.com/OxygenCobalt/Auxio)
 
