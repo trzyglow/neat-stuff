@@ -524,6 +524,20 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 </details>
 
+## Arch Linux
+<details>
+<summary>Show Entries</summary>
+
+- [Arch Package Search](https://archlinux.org/packages/)
+
+- [AUR Package Search](https://aur.archlinux.org/packages)
+
+- [Chaotic AUR](https://aur.chaotic.cx/)
+
+- [Arch Wiki](https://wiki.archlinux.org/)
+
+</details>
+
 ## Miscellaneous
 <details>
 <summary>Show Entries</summary>
