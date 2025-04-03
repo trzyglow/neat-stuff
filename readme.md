@@ -16,12 +16,18 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [WinWorld](https://winworldpc.com/home)
 
+- [The Web Gallery of Art](https://www.wga.hu/)
+
 ### Literature
 
 - [Project Gutenberg](https://www.gutenberg.org/)
 
   - [Castellio](https://castellio.de/)
     - German UI only
+
+- [E-LIS](http://eprints.rclis.org/)
+
+- [HAL](https://hal.science/)
 
 ### Gaming
 
@@ -49,9 +55,16 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [Bundesarchiv](https://www.bundesarchiv.de/DE/Navigation/Home/home.html)
   - German (English available)
 
+- [Národní Archiv](https://www.nacr.cz/)
+  - Czech (English available)
+
 - [Historical Archives of the EU](https://www.eui.eu/en/academic-units/historical-archives-of-the-european-union)
 
 - [Europeana](https://www.europeana.eu/)
+
+- [Europe PMC](https://europepmc.org/)
+
+- [European Genome-phenome Archive](https://ega-archive.org/)
 
 </details>
 
@@ -88,6 +101,12 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Doom8088](https://github.com/FrenkelS/Doom8088)
   - Doom for 16-bit DOS computers
+
+- [STDOOM](https://github.com/indyjo/STDOOM)
+  - Doom for the Atari ST
+
+- [DOOM-ASCII](https://github.com/wojciech-graj/doom-ascii)
+  - Doom for the Terminal
 
 ### Map & Mod Tools
 
@@ -171,10 +190,6 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)
 
-- [WineHQ](https://www.winehq.org/)
-
-- [ProtonDB](https://www.protondb.com/)
-
 - [Open RSS](https://openrss.org/)
 
 - [European Alternatives](https://european-alternatives.eu/alternatives-to)
@@ -187,9 +202,13 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Buy European](https://buy-european.net/)
 
-- [anubis](https://github.com/TecharoHQ/anubis)
+- [Anubis](https://github.com/TecharoHQ/anubis)
 
-- [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt)
+- [AlternativeTo](https://alternativeto.net/)
+
+- [Hiren's BootCD](https://www.hirensbootcd.org/)
+
+- [Ventoy](https://www.ventoy.net/en/index.html)
 
 </details>
 
@@ -244,7 +263,7 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [QEMU](https://www.qemu.org/)
 
-  - [QtEmu](https://qtemu.org/)
+  - [QtEmu](https://gitlab.com/qtemu/gui)
 
 - [openMSX](https://github.com/openMSX/openMSX)
 
@@ -379,6 +398,8 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [The Great Escape](https://github.com/dpt/The-Great-Escape-in-C)
 
+- [FROTZ](https://gitlab.com/DavidGriffith/frotz)
+
 #### RPG
 
 - [DevilutionX](https://github.com/diasurgical/devilutionX)
@@ -465,6 +486,8 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [OutRun2006Tweaks](https://github.com/emoose/OutRun2006Tweaks)
 
+- [Grim Fandango Remastered HD](https://hexagon.codes/grimhd)
+
 #### Modifier Tools
 
 - [RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js/)
@@ -528,13 +551,39 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 <details>
 <summary>Show Entries</summary>
 
-- [Arch Package Search](https://archlinux.org/packages/)
-
-- [AUR Package Search](https://aur.archlinux.org/packages)
+- [Arch Linux Homepage](https://archlinux.org/)
 
 - [Chaotic AUR](https://aur.chaotic.cx/)
 
-- [Arch Wiki](https://wiki.archlinux.org/)
+- [Arch Linux Historical Archive](https://archive.org/details/archlinuxarchive)
+
+- [Pacman Mirrorlist Generator](https://archlinux.org/mirrorlist/)
+
+</details>
+
+## General Linux Resources
+<details>
+<summary>Show Entries</summary>
+
+- [DistroSea](https://distrosea.com/)
+
+- [Distro Chooser](https://distrochooser.de/)
+
+- [Linux From Scratch](https://lfs.sourceforge.net/)
+
+- [AppImage](https://appimage.org/)
+
+- [Flathub](https://flathub.org/)
+
+- [WineHQ](https://www.winehq.org/)
+
+- [ProtonDB](https://www.protondb.com/)
+
+- [All Things Linux](https://allthingslinux.org/)
+
+- [It's FOSS](https://itsfoss.com/)
+
+- [nixCraft](https://www.nixcraft.com/)
 
 </details>
 
@@ -547,6 +596,14 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [ASCII Theater](https://ascii.theater/)
 
 - [Mastodon emojo list](https://emojos.in/)
+
+- [Scalable Pixels](https://www.scalablepixels.com/)
+
+- [Choose a license](https://choosealicense.com/)
+
+- [OpenMIDIProject](https://openmidiproject.opal.ne.jp/index_en.html)
+
+- [Cool Text](https://cooltext.com/)
 
 ### Software
 
@@ -572,6 +629,32 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [Unhook YouTube](https://unhook.app/)
 
 - [YouTube No Translation](https://youtube-no-translation.vercel.app/)
+
+- [Bloopair](https://github.com/GaryOderNichts/Bloopair)
+
+- [mt32-pi](https://github.com/dwhinham/mt32-pi)
+
+- [mpv](https://mpv.io)
+
+- [Tmux](https://github.com/tmux/tmux)
+
+- [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html)
+
+- [live-server](https://npmjs.com/package/live-server)
+
+- [pipes.sh](https://github.com/pipeseroni/pipes.sh)
+
+- [Vifm](https://github.com/vifm/vifm)
+
+- [Schism Tracker](https://github.com/schismtracker/schismtracker)
+
+- [Vim](https://www.vim.org/) / [Neovim](https://neovim.io/)
+
+- [NVTOP](https://github.com/Syllo/nvtop)
+
+- [CAVA](https://github.com/karlstav/cava)
+
+- [Captain's Log](https://github.com/NikolaDucak/caps-log)
 
 ### Mobile Apps (Android)
 
@@ -605,6 +688,10 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Another notes app](https://github.com/maltaisn/another-notes-app/)
 
+- [Termux](https://github.com/termux/termux-app)
+
+- [ToS;DR App](https://github.com/tosdr/tosdr-android)
+
 </details>
 <hr>
 
@@ -616,3 +703,5 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 > [!CAUTION]
 > I will not be liable for any potential damages resulting from the visit or usage of the above listed entries.
 > User discretion is advised; use and/or visit at your own risk.
+
+<p align="right"><img src="./badge.png"></p>
