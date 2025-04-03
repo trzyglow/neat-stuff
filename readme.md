@@ -191,6 +191,8 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt)
 
+- [AlternativeTo](https://alternativeto.net/)
+
 </details>
 
 ## Modern Retro Gaming
@@ -547,6 +549,8 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [ASCII Theater](https://ascii.theater/)
 
 - [Mastodon emojo list](https://emojos.in/)
+
+- [Linux From Scratch](https://lfs.sourceforge.net/)
 
 ### Software
 
