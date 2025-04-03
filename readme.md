@@ -16,12 +16,18 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [WinWorld](https://winworldpc.com/home)
 
+- [The Web Gallery of Art](https://www.wga.hu/)
+
 ### Literature
 
 - [Project Gutenberg](https://www.gutenberg.org/)
 
   - [Castellio](https://castellio.de/)
     - German UI only
+
+- [E-LIS](http://eprints.rclis.org/)
+
+- [HAL](https://hal.science/)
 
 ### Gaming
 
@@ -52,6 +58,10 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [Historical Archives of the EU](https://www.eui.eu/en/academic-units/historical-archives-of-the-european-union)
 
 - [Europeana](https://www.europeana.eu/)
+
+- [Europe PMC](https://europepmc.org/)
+
+- [European Genome-phenome Archive](https://ega-archive.org/)
 
 </details>
 
@@ -190,6 +200,10 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [anubis](https://github.com/TecharoHQ/anubis)
 
 - [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt)
+
+- [AlternativeTo](https://alternativeto.net/)
+
+- [Distro Chooser](https://distrochooser.de/)
 
 </details>
 
@@ -379,6 +393,8 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [The Great Escape](https://github.com/dpt/The-Great-Escape-in-C)
 
+- [FROTZ](https://gitlab.com/DavidGriffith/frotz)
+
 #### RPG
 
 - [DevilutionX](https://github.com/diasurgical/devilutionX)
@@ -465,6 +481,8 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [OutRun2006Tweaks](https://github.com/emoose/OutRun2006Tweaks)
 
+- [Grim Fandango Remastered HD](https://hexagon.codes/grimhd)
+
 #### Modifier Tools
 
 - [RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js/)
@@ -536,6 +554,10 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Arch Wiki](https://wiki.archlinux.org/)
 
+- [Arch Linux Historical Archive](https://archive.org/details/archlinuxarchive)
+
+- [Pacman Mirrorlist Generator](https://archlinux.org/mirrorlist/)
+
 </details>
 
 ## Miscellaneous
@@ -547,6 +569,16 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [ASCII Theater](https://ascii.theater/)
 
 - [Mastodon emojo list](https://emojos.in/)
+
+- [Linux From Scratch](https://lfs.sourceforge.net/)
+
+- [Scalable Pixels](https://www.scalablepixels.com/)
+
+- [Flathub](https://flathub.org/)
+
+- [Choose a license](https://choosealicense.com/)
+
+- [OpenMIDIProject](https://openmidiproject.opal.ne.jp/index_en.html)
 
 ### Software
 
@@ -572,6 +604,10 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [Unhook YouTube](https://unhook.app/)
 
 - [YouTube No Translation](https://youtube-no-translation.vercel.app/)
+
+- [Bloopair](https://github.com/GaryOderNichts/Bloopair)
+
+- [mt32-pi](https://github.com/dwhinham/mt32-pi)
 
 ### Mobile Apps (Android)
 
