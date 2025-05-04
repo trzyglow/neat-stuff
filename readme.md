@@ -23,7 +23,6 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [Project Gutenberg](https://www.gutenberg.org/)
 
   - [Castellio](https://castellio.de/)
-    - German UI only
 
 - [E-LIS](http://eprints.rclis.org/)
 
@@ -49,14 +48,11 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 ### European Archives
 
-- [Narodowe Archiwum Cyfrowe](https://www.nac.gov.pl/)
-  - Polish (English available)
-
 - [Bundesarchiv](https://www.bundesarchiv.de/DE/Navigation/Home/home.html)
-  - German (English available)
+
+- [Narodowe Archiwum Cyfrowe](https://www.nac.gov.pl/)
 
 - [Národní Archiv](https://www.nacr.cz/)
-  - Czech (English available)
 
 - [Historical Archives of the EU](https://www.eui.eu/en/academic-units/historical-archives-of-the-european-union)
 
@@ -85,28 +81,20 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 ### Special Source-Ports
 
 - [Doom 64 EX+](https://github.com/atsb/Doom64EX-Plus)
-  - A sourceport of Doom 64 for PC
 
 - [PsyDoom](https://github.com/BodbDearg/PsyDoom)
-  - A backport of PSX Doom to PC
 
 - [Phoenix DOOM](https://github.com/BodbDearg/phoenix_doom)
-  - A backport of 3DO Doom to PC
 
 - [CRY](https://github.com/JNechaevsky/CRY)
-  - A recreation of Jaguar Doom for PC
 
 - [GBADoom](https://github.com/doomhack/GBADoom)
-  - PrBoom on the GBA
 
 - [Doom8088](https://github.com/FrenkelS/Doom8088)
-  - Doom for 16-bit DOS computers
 
 - [STDOOM](https://github.com/indyjo/STDOOM)
-  - Doom for the Atari ST
 
 - [DOOM-ASCII](https://github.com/wojciech-graj/doom-ascii)
-  - Doom for the Terminal
 
 ### Map & Mod Tools
 
@@ -118,11 +106,7 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [WadFusion](https://github.com/Owlet7/wadfusion)
 
-- [Doom Writer](https://zandronum.com/forum/viewtopic.php?t=4670#p63390)
-  - Forum download page
-
 - [Doom Text Generator](https://c.eev.ee/doom-text-generator/)
-  - Web based editor
 
 </details>
 
@@ -210,6 +194,16 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Ventoy](https://www.ventoy.net/en/index.html)
 
+- [SystemRescue](https://www.system-rescue.org/)
+
+- [Rufus](https://github.com/pbatard/rufus)
+
+- [Go European](https://www.goeuropean.org/)
+
+- [MemTest86](https://www.memtest86.com/)
+
+- [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/)
+
 </details>
 
 ## Modern Retro Gaming
@@ -245,13 +239,7 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 #### Home Computers
 
-- [DOSBox](https://www.dosbox.com/)
-
-- [DOSBox-X](https://dosbox-x.com/)
-  - Fork with flexibility focus
-
-- [DOSBox Staging](https://www.dosbox-staging.org/)
-  - Unofficial continuation
+- [DOSBox](https://www.dosbox.com/) / [DOSBox-X](https://dosbox-x.com/) / [DOSBox Staging](https://www.dosbox-staging.org/)
 
 - [PCem](https://pcem-emulator.co.uk/)
 
@@ -263,7 +251,7 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [QEMU](https://www.qemu.org/)
 
-  - [QtEmu](https://gitlab.com/qtemu/gui)
+  - [QtEmu](https://gitlab.com/qtemu/gui) (requires QEMU)
 
 - [openMSX](https://github.com/openMSX/openMSX)
 
@@ -273,31 +261,18 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [X-Emulators](https://github.com/lgblgblgb/xemu)
 
-- [Mini vMac](https://www.gryphel.com/c/minivmac/)
-
 - [Amiberry](https://github.com/BlitterStudio/amiberry)
 
 #### Consoles
 ##### 1-3. Generation
 
-- [Mesen](https://github.com/SourMesen/Mesen)
-
 - [Stella](https://github.com/stella-emu/stella)
-
-##### 4. Generation
-
-- [Mesen-S](https://github.com/SourMesen/Mesen-S)
-
-- [Genesis Plus GX](https://github.com/ekeeke/Genesis-Plus-GX)
 
 ##### 5. Generation
 
 - [DuckStation](https://www.duckstation.org/)
 
-- [Mupen64Plus](https://github.com/mupen64plus/mupen64plus-core)
-  - [Rosalie's Mupen GUI](https://github.com/Rosalie241/RMG)
-
-- [simple64](https://github.com/simple64/simple64)
+- [Mupen64Plus](https://github.com/mupen64plus/mupen64plus-core) / [Rosalie's Mupen GUI](https://github.com/Rosalie241/RMG)
 
 - [DaedalusX64](https://github.com/DaedalusX64/daedalus)
 
@@ -333,12 +308,9 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 #### Shooter
 
-- [QuakeSpasm](https://sourceforge.net/projects/quakespasm/)
-  - [Ironwail](https://github.com/andrei-drexler/ironwail)
-  - [vkQuake](https://github.com/Novum/vkQuake)
+- [QuakeSpasm](https://sourceforge.net/projects/quakespasm/) / [Ironwail](https://github.com/andrei-drexler/ironwail) / [vkQuake](https://github.com/Novum/vkQuake)
 
-- [Yamagi Quake II](https://www.yamagi.org/quake2/)
-  - [Yamagi Quake II Remaster](https://github.com/yquake2/yquake2remaster)
+- [Yamagi Quake II](https://www.yamagi.org/quake2/) / [Yamagi Quake II Remaster](https://github.com/yquake2/yquake2remaster)
 
 - [Raze](https://raze.zdoom.org/about)
 
@@ -352,13 +324,11 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [C-Dogs SDL](https://github.com/cxong/cdogs-sdl)
 
-- [ECWolf](https://maniacsvault.net/ecwolf/)
-  - [ECWolf source code](https://bitbucket.org/ecwolf/ecwolf/src/master/)
+- [ECWolf](https://maniacsvault.net/ecwolf/) ([source code](https://bitbucket.org/ecwolf/ecwolf/src/master/))
 
 - [BStone](https://github.com/bibendovsky/bstone)
 
-- [SeriousSamClassic](https://github.com/tx00100xt/SeriousSamClassic)
-  - [SeriousSamClassic-VK](https://github.com/tx00100xt/SeriousSamClassic-VK)
+- [SeriousSamClassic](https://github.com/tx00100xt/SeriousSamClassic) / [SeriousSamClassic-VK](https://github.com/tx00100xt/SeriousSamClassic-VK)
 
 - [Xash3D](https://github.com/FWGS/xash3d-fwgs)
 
@@ -385,6 +355,8 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [OldUnreal](https://oldunreal.com/)
 
 - [sf64](https://github.com/sonicdcer/sf64)
+
+- [OpenXRay](https://github.com/OpenXRay/xray-16)
 
 #### Adventure
 
@@ -488,6 +460,8 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Grim Fandango Remastered HD](https://hexagon.codes/grimhd)
 
+- [Metal Gear Solid Master Collection Fix](https://github.com/Lyall/MGSHDFix)
+
 #### Modifier Tools
 
 - [RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js/)
@@ -585,6 +559,10 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [nixCraft](https://www.nixcraft.com/)
 
+- [The Linux Documentation Project](https://tldp.org/)
+
+- [Linux Journey](https://linuxjourney.com/)
+
 </details>
 
 ## Miscellaneous
@@ -605,6 +583,8 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Cool Text](https://cooltext.com/)
 
+- [Dezoomify](https://dezoomify.ophir.dev/)
+
 ### Software
 
 - [The Santroller Platform](https://github.com/Santroller/Santroller)
@@ -612,7 +592,6 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [Czkawka](https://github.com/qarmin/czkawka)
 
 - [SyncTERM](https://syncterm.bbsdev.net/)
-  - BBS client
 
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
 
@@ -646,6 +625,8 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [Vifm](https://github.com/vifm/vifm)
 
+- [Ranger](https://ranger.github.io/)
+
 - [Schism Tracker](https://github.com/schismtracker/schismtracker)
 
 - [Vim](https://www.vim.org/) / [Neovim](https://neovim.io/)
@@ -655,6 +636,40 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 - [CAVA](https://github.com/karlstav/cava)
 
 - [Captain's Log](https://github.com/NikolaDucak/caps-log)
+
+- [csol](https://github.com/nielssp/csol)
+
+- [BinEd](https://bined.exbin.org/)
+
+- [Linux GPU Control Application (LACT)](https://github.com/ilya-zlobintsev/LACT)
+
+- [Ruffle](https://ruffle.rs/)
+
+- [Waterfox](https://www.waterfox.net/)
+
+- [qutebrowser](https://qutebrowser.org/)
+
+- [Ladybird](https://ladybird.org/)
+
+- [MusicBrainz Picard](https://picard.musicbrainz.org/)
+
+- [FamiStudio](https://github.com/BleuBleu/FamiStudio)
+
+- [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal)
+
+- [Flatsweep](https://flathub.org/apps/io.github.giantpinkrobots.flatsweep)
+
+- [Bottles](https://flathub.org/apps/com.usebottles.bottles)
+
+- [Blanket](https://flathub.org/apps/com.rafaelmardojai.Blanket)
+
+#### Vim Plugins
+
+- [vim-plug](https://github.com/junegunn/vim-plug)
+
+- [vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown)
+
+- [vimcolorschemes](https://vimcolorschemes.com/)
 
 ### Mobile Apps (Android)
 
@@ -692,16 +707,18 @@ _An index of websites, tools, games, etc. that I think are neat; essentially jus
 
 - [ToS;DR App](https://github.com/tosdr/tosdr-android)
 
+- [Tusky](https://codeberg.org/tusky/Tusky)
+
+- [Sleep Timer](https://github.com/SimonMarquis/SleepTimer)
+
 </details>
 <hr>
 
 > [!NOTE]
 > The inclusion of an entry is not an endorsement of the author/authors or rights holder/holders.
 
-
-
 > [!CAUTION]
 > I will not be liable for any potential damages resulting from the visit or usage of the above listed entries.
 > User discretion is advised; use and/or visit at your own risk.
 
-<p align="right"><img src="./badge.png"></p>
+![Made with Vim](./badge.png)
